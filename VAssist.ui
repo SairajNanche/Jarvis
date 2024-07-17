@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>JarvisUI</class>
+ <widget class="QMainWindow" name="JarvisUI">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1997</width>
+    <height>1075</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="Bg_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>771</width>
+      <height>511</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 170, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_3">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>20</y>
+      <width>791</width>
+      <height>511</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 170, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>40</y>
+      <width>731</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/B.G/Iron_Template_1.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_2">
+    <property name="geometry">
+     <rect>
+      <x>810</x>
+      <y>40</y>
+      <width>751</width>
+      <height>471</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/ExtraGui/live.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_3">
+    <property name="geometry">
+     <rect>
+      <x>-20</x>
+      <y>570</y>
+      <width>701</width>
+      <height>401</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../GUI/Rotation.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_4">
+    <property name="geometry">
+     <rect>
+      <x>1600</x>
+      <y>20</y>
+      <width>311</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 170, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Gif_4">
+    <property name="geometry">
+     <rect>
+      <x>1620</x>
+      <y>40</y>
+      <width>271</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/ExtraGui/Earth.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_1">
+    <property name="geometry">
+     <rect>
+      <x>-10</x>
+      <y>-120</y>
+      <width>2071</width>
+      <height>1301</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/B.G/Black_Template.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Text_Time_1">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>800</y>
+      <width>451</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: Transparent;
+color: rgb(0, 85, 255);
+border-radius: 0;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_5">
+    <property name="geometry">
+     <rect>
+      <x>1360</x>
+      <y>760</y>
+      <width>561</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/B.G/frame2.PNG</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_6">
+    <property name="geometry">
+     <rect>
+      <x>1360</x>
+      <y>540</y>
+      <width>561</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/B.G/frame2.PNG</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Text_Time_2">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>580</y>
+      <width>451</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: Transparent;
+color: rgb(0, 85, 255);
+border-radius: 0;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_start">
+    <property name="geometry">
+     <rect>
+      <x>1610</x>
+      <y>300</y>
+      <width>291</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+color: rgb(0, 170, 255);
+font: 24pt &quot;Sylfaen&quot;;
+font: 24pt &quot;MS Reference Sans Serif&quot;;
+font: 22pt &quot;Mongolian Baiti&quot;;
+background-color: black;</string>
+    </property>
+    <property name="text">
+     <string>Start</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_7">
+    <property name="geometry">
+     <rect>
+      <x>1600</x>
+      <y>290</y>
+      <width>311</width>
+      <height>241</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: rgb(0, 170, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_end">
+    <property name="geometry">
+     <rect>
+      <x>1610</x>
+      <y>420</y>
+      <width>291</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 127);
+color: rgb(0, 170, 255);
+font: 24pt &quot;Sylfaen&quot;;
+font: 24pt &quot;MS Reference Sans Serif&quot;;
+font: 22pt &quot;Mongolian Baiti&quot;;
+background-color: black;</string>
+    </property>
+    <property name="text">
+     <string>End</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Bg_8">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>650</y>
+      <width>651</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../G.U.I Material/B.G/frame2.PNG</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="Text_Time_3">
+    <property name="geometry">
+     <rect>
+      <x>760</x>
+      <y>690</y>
+      <width>541</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: Transparent;
+color: rgb(0, 85, 255);
+border-radius: 0;</string>
+    </property>
+   </widget>
+   <zorder>Bg_1</zorder>
+   <zorder>Bg_7</zorder>
+   <zorder>Bg_5</zorder>
+   <zorder>Gif_3</zorder>
+   <zorder>Bg_2</zorder>
+   <zorder>Bg_3</zorder>
+   <zorder>Gif_1</zorder>
+   <zorder>Gif_2</zorder>
+   <zorder>Bg_4</zorder>
+   <zorder>Gif_4</zorder>
+   <zorder>Text_Time_1</zorder>
+   <zorder>Bg_6</zorder>
+   <zorder>Text_Time_2</zorder>
+   <zorder>pushButton_start</zorder>
+   <zorder>pushButton_end</zorder>
+   <zorder>Bg_8</zorder>
+   <zorder>Text_Time_3</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
